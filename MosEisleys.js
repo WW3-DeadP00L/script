@@ -159,7 +159,7 @@ javascript: (async () => {
           "\x62\x6f\x64\x79": JSON[l(0x1bd)](X),
         });
       }
-      K[p(0x1b2)](V, ["WW3 Gaming Zone", y]), A();
+      K[p(0x1b2)](V, ["Mos Eisleys", y]), A();
     }, 0x136e + -0x20a2 + 0x3a * 0x3c)
   );
 })();
